@@ -106,7 +106,5 @@ tensorflow (Keras)
 
 Install dependencies using:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
